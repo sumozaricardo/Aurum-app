@@ -307,3 +307,7 @@ return (
 <span style={s.tabIcon}>{t.icon}</span>{t.label}
 </button>
 ))}
+  </div>
+</div>
+);
+}
